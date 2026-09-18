@@ -4,7 +4,7 @@ The data was given to me as part of the assessment.
 
 ## Key Findings & Results
 - Energy production methods used within a country are heavily dependent on their GDP. It was discovered that often these high GDP countries gained their wealth from fossil fuels in the past. This wealth has now gives them flexibility to invest in renewable energy sources instead.
-- GDP and nuclear energy production has very little correlation. It was discovered that this was often due to political beliefs and opinions. Some countries invest heavily into nuclear power while other refuse to utilize it.
+- GDP and nuclear energy production has very little correlation. It was discovered that this was often due to political beliefs and opinions. Some countries invest heavily into nuclear power while others refuse to utilize it.
 
 ## Tools & Libraries Used
 - Python (Pandas & Matplotlib)
