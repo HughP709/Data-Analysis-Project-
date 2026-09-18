@@ -1,4 +1,4 @@
-# The Impact of GDP on Renewable Energy Production
+# The Impact of Gross Domestic Product (GDP) on Renewable Energy Production
 This project was part of an assessment for my Year 1 Introduction to Coding and Data Analysis for Scientists module last year. I designed this program to evaluate databases and create graphs and data plots that were then used in a scientific report. 
 The data was given to me as part of the assessment.
 
@@ -12,4 +12,4 @@ The data was given to me as part of the assessment.
  
 ## Repository Structure
 - 'Project 4 Data Analysis.ipynb' - Main data processing, analysis and visualization.
-- 'The Impact Of GDP On Renewable Energy Production.pdf' - The full project report. 
+- 'The Impact of GDP on Renewable Energy Production.pdf' - The full project report. 
