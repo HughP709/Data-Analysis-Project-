@@ -6,10 +6,10 @@ The data itself was given to me as past of the assessment and we have complete f
 - Energy production methods used withing a country are heavily dependent on there GDP. It was discovered that often these high GDP countries gained their wealth from fossil fuels in the part and this is what has given them flexibility to now invest in renewable energy sources instead.
 - GDP and Nuclear energy production had very little correlation. After further research, it was discovered that this was often due to political beliefs and opinions. Some countries invest heavily into nuclear power while other refuse to utilize it.
 
-  ## Tools & Libraries Used
-  - Python (Pandas & Matplotlib)
-  - Jupyter Notebooks
+## Tools & Libraries Used
+- Python (Pandas & Matplotlib)
+- Jupyter Notebooks
  
-  ## Repository Structure
-  - 'Project 4 Data Analysis.ipynb' - Main data processing, analysis and visualization.
-  - 'The Impact Of GDP On Renewable Energy Production' - The full project report. 
+## Repository Structure
+- 'Project 4 Data Analysis.ipynb' - Main data processing, analysis and visualization.
+- 'The Impact Of GDP On Renewable Energy Production' - The full project report. 
