@@ -12,4 +12,4 @@ The data itself was given to me as past of the assessment and we have complete f
  
 ## Repository Structure
 - 'Project 4 Data Analysis.ipynb' - Main data processing, analysis and visualization.
-- 'The Impact Of GDP On Renewable Energy Production' - The full project report. 
+- 'The Impact Of GDP On Renewable Energy Production.pdf' - The full project report. 
